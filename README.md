@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jay</h1>
-<h3 align="center">An analytical mind with a knack to solve real world problems by learning new technologies and using them to work efficiently.</h3>
+<h3 align="center">An analytical mind with a knack for solving real-world problems by learning new technologies and using them to work efficiently.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jay manek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay manek" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jay-manek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay manek" height="30" width="40" /></a>
 <a href="https://instagram.com/jay.manek_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jay.manek_" height="30" width="40" /></a>
 </p>
 
