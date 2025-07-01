@@ -1,17 +1,102 @@
-<h1 align="center">Hi 👋, I'm Jay</h1>
-<h3 align="center">An analytical mind with a knack for solving real-world problems by learning new technologies and using them to work efficiently.</h3>
+<!-- Profile Header -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="middle" width="200">
+        <img src="https://github.com/jmanek03/jmanek03/blob/8344af1a2ff75210e165609538c655cb3778b555/avatar.png" alt="Jay's Avatar" width="270">
+      </td>
+      <td align="left" valign="middle">
+        <h1 style="font-family: 'Segoe UI', Arial, sans-serif; font-weight: bold; font-size: 2.8em; margin-bottom: 0;">
+          Jay Manek
+        </h1>
+        <p style="font-size: 1.7em; margin-top: 0;">
+          <b>Full-Stack Web Developer</b> &nbsp;|&nbsp; React &nbsp;|&nbsp; Node.js &nbsp;|&nbsp; MERN &nbsp;|&nbsp; Tech Enthusiast
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jay-manek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay manek" height="30" width="40" /></a>
-<a href="https://instagram.com/jay.manek_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jay.manek_" height="30" width="40" /></a>
+---
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jmanek03&show_icons=true&theme=radical&hide_title=true" alt="Jay's GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmanek03&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmanek03&show_icons=true&locale=en&layout=compact" alt="jmanek03" /></p>
+<!-- Tech Stack -->
+<h2 align="center" style="font-family: 'Segoe UI', Arial, sans-serif;">Tech Stack</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmanek03&show_icons=true&locale=en" alt="jmanek03" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmanek03&" alt="jmanek03" /></p>
+<!-- Projects Section -->
+<h2 align="center" style="font-family: 'Segoe UI', Arial, sans-serif;">🚀 Highlighted Projects</h2>
+
+<table align="center" style="border-radius: 12px; border: 1px solid #eee; box-shadow: 0 2px 8px #f0f0f0;">
+  <tr>
+    <td>
+      <b>IEAMS (Integrated Exam Management System)</b><br>
+      <span style="font-size: 0.95em;">
+        A full-stack web platform for managing exam remuneration and approvals across multiple roles (admin, superadmin, examcell, accounts, users).<br>
+        <b>Stack:</b> MongoDB, Express.js, React, Node.js (MERN)
+      </span><br>
+      <a href="https://github.com/jmanek03/ieams" target="_blank">
+        <img src="https://img.shields.io/github/stars/jmanek03/ieams?style=social" alt="GitHub stars"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>Explore MERN Stack Travel Journal App</b><br>
+      <span style="font-size: 0.95em;">
+        A full-stack web application enabling users to share and discover travel stories with location tagging and photo uploads.<br>
+        <b>Stack:</b> MongoDB, Express.js, React, Node.js (MERN)
+      </span><br>
+      <a href="https://github.com/jmanek03/explore" target="_blank">
+        <img src="https://img.shields.io/github/stars/jmanek03/explore?style=social" alt="GitHub stars"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- Contact & Links -->
+<p align="center">
+  <a href="mailto:manekjay28@gmail.com">
+    <img src="https://img.shields.io/badge/Email-manekjay28@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jmanek03/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-jmanek03-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/jmanek03" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-jmanek03-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center" style="font-size: 1em; color: #888;">
+  <i>Let's connect and build something amazing together!</i>
+</p>
+</p>
+
+---
+
+<p align="center" style="font-size: 1em; color: #888;">
+  <i>Let's connect and build something amazing together!</i>
+</p>
