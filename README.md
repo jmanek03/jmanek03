@@ -93,10 +93,4 @@
 <p align="center" style="font-size: 1em; color: #888;">
   <i>Let's connect and build something amazing together!</i>
 </p>
-</p>
 
----
-
-<p align="center" style="font-size: 1em; color: #888;">
-  <i>Let's connect and build something amazing together!</i>
-</p>
