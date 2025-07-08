@@ -7,7 +7,10 @@
       </td>
       <td align="left" valign="middle">
         <h1 style="font-family: 'Segoe UI', Arial, sans-serif; font-weight: bold; font-size: 2.8em; margin-bottom: 0;">
-          Jay Manek
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="https://jaymanek.gitlab.io/" target="_blank">
+            <img src="https://img.shields.io/badge/Jay%20Manek-white?style=for-the-badge&logo=gitlab&logoColor=orange"/>
+          </a>
         </h1>
         <p style="font-size: 1.7em; margin-top: 0;">
           <b>Full-Stack Web Developer</b> &nbsp;|&nbsp; React &nbsp;|&nbsp; Node.js &nbsp;|&nbsp; MERN &nbsp;|&nbsp; Tech Enthusiast
@@ -15,19 +18,7 @@
       </td>
     </tr>
   </table>
-  ---
-
-<!-- Portfolio Website -->
-<h2 align="center" style="font-family: 'Segoe UI', Arial, sans-serif;">🌐 Portfolio & Resume</h2>
-
-<p align="center">
-  Explore my developer portfolio and resume hosted on GitLab Pages:
-  <br><br>
-  <a href="https://jaymanek.gitlab.io/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Portfolio%20&%20Resume-jaymanek.gitlab.io-orange?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  </a>
-</p>
-
+  
 </div>
 
 ---
