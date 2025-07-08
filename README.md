@@ -15,6 +15,19 @@
       </td>
     </tr>
   </table>
+  ---
+
+<!-- Portfolio Website -->
+<h2 align="center" style="font-family: 'Segoe UI', Arial, sans-serif;">🌐 Portfolio & Resume</h2>
+
+<p align="center">
+  Explore my developer portfolio and resume hosted on GitLab Pages:
+  <br><br>
+  <a href="https://jaymanek.gitlab.io/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio%20&%20Resume-jaymanek.gitlab.io-orange?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  </a>
+</p>
+
 </div>
 
 ---
